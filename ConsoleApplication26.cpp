@@ -1,21 +1,15 @@
 #include <iostream>
 using namespace std;
 
-void newFunction() {
-	cout << "WOW";
-}
 
 
 void main()
 {
    
 
-	
-	cout << "Kek";
-
-	newFunction();
-
-
+	cout << "Hello github";
+	cout << "Sin Holdika";
+	cout << "Hate LGBTQ";
 
 
 }
