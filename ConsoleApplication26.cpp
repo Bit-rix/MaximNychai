@@ -10,7 +10,9 @@ void main()
 	cout << "Hello github";
 	cout << "Sin Holdika";
 	cout << "Hate LGBTQ";
+	cout << "Lol";
 
 
 }
+
 
